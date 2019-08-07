@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Hobby\Hobby\bin\Debug\Hobby.exe.config
+C:\Users\User\source\repos\Hobby\Hobby\bin\Debug\Hobby.exe
+C:\Users\User\source\repos\Hobby\Hobby\bin\Debug\Hobby.pdb
+C:\Users\User\source\repos\Hobby\Hobby\bin\Debug\Hobby.xml
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.Form1.resources
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.Form2.resources
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.Form3.resources
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.Form4.resources
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.Resources.resources
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.exe
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.xml
+C:\Users\User\source\repos\Hobby\Hobby\obj\Debug\Hobby.pdb
